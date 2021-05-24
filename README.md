@@ -21,6 +21,9 @@ Rainbow options are appealing to investors due to its natural risk diversificati
 Due to the complexity of the payoff structure, the option is normally priced via Monte Carlo simulation. 
 
 
-Reference:
+References:
+
 https://finpricing.com/lib/EqRainbow.html
+
+https://bitbucket.org/cmrm11/eqrainbow/downloads/EqRainbow-24.pdf
 
